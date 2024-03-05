@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bilalbaig170
+- 👋 Hi, I’m Bilal Mughal
 - 👀 I’m interested in Developement
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
